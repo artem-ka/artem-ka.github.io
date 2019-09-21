@@ -1401,7 +1401,7 @@ main {
 
 /* mobile-version */
 
-@media (max-width: 720px) {
+@media (max-width: 720px),(max-device-width: 720px) {
 
     /* body */
 
