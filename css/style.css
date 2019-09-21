@@ -1424,7 +1424,6 @@ main {
         width: 100%;
         flex-wrap: wrap;
         justify-content: space-between;
-        max-width: 576px;
     }
 
     .link-logo {
