@@ -95,10 +95,7 @@ body {
     color: #fbfaf8;
 }
 
-.mobile-menu-base {
-    display: none;
-}
-
+.mobile-menu-base,
 #mobile-menu {
     display: none;
 }
