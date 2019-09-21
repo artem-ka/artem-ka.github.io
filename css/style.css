@@ -1415,6 +1415,7 @@ main {
     .header-first {
         min-height: 150px;
         padding: 40px;
+        box-sizing: border-box;
     }
 
     .logo-and-menu {
@@ -1481,12 +1482,18 @@ main {
     }
 
     /* main */
+    
+    main {
+        width: 100%;
+        box-sizing: border-box;
+    }
 
     /* section services */
 
     .services {
         flex-wrap: wrap;
         padding: 10px;
+        box-sizing: border-box;
     }
 
     .service-item {
@@ -1548,6 +1555,7 @@ main {
         padding: 10px;
         position: relative;
         min-height: 500px;
+        box-sizing: border-box;
     }
 
     .phone-in-hand {
@@ -1615,6 +1623,7 @@ main {
 
     .recent-posts {
         padding: 10px;
+        box-sizing: border-box;
     }
 
     .recent-posts-content {
@@ -1638,6 +1647,7 @@ main {
 
     .partners {
         padding: 10px;
+        box-sizing: border-box;
     }
 
     .partner-item {
@@ -1662,6 +1672,7 @@ main {
     .copyright {
         padding: 10px;
         flex-wrap: wrap;
+        box-sizing: border-box;
     }
 
     .footer-ul-left {
