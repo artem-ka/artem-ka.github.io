@@ -1479,7 +1479,7 @@ main {
         margin: 0;
     }
 
-    .search-item:focus {
+    .search-item:focus{
         width: 300px;
         min-height: 24px;
         background-position: left;
