@@ -1402,8 +1402,7 @@ main {
 
 /* mobile-version */
 
-@media (max-width: 720px),
-(max-device-width: 720px) {
+@media (max-width: 720px) {
 
     /* body */
 
@@ -1474,7 +1473,7 @@ main {
     .mobile-menu-img:last-of-type {
         margin: 0;
     }
-    
+
     .basket {
         margin: 0;
     }
